@@ -1,7 +1,13 @@
 <h2 align="center">I'm Mayank raj </h2>
-<h3 align="center"> Full Stack Developer With a Passion for Development and Excited to Be at the Deployment Phase of My
-    Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
+<h3 align="center"> I've done my bachelor's in
+Computer Applications from
+MLSU Udaipur in June 2022.
+I'm Aspiring Node backend
+developer
+MongoDB || Express || Node.</h3>
 <hr>
+
+<img align="right" src="/code.gif" width="450" height="280" />
 
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h4>
 
@@ -9,7 +15,6 @@
 
 - 👨‍💻 some of my projects are available at [https://07mayankraj.netlify.app/](https://07mayankraj.netlify.app/)
 
-<img align="right" src="/code.gif" width="450" height="280" />
 
 - 💬 Ask me about **Node Backend,Html,Css,Java Script**
 
