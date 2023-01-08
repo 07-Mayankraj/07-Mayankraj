@@ -8,7 +8,9 @@ developer</h3>
 <h3 align="center"> 
 MongoDB || Express || Node.</h3>
     <br />
-<img align="center" src="/code.gif" width="70%" height="200" />
+    <div align="center">
+    <img src="/code.gif" width = "450" height="250"/>
+    </div>
     <br />
     <br />
 <hr>
