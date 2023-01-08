@@ -1,13 +1,15 @@
-<h2 align="center">I'm Mayank raj </h2>
+<h2 align="center">Mayank raj </h2>
+<img align="right" src="/code.gif" width="350" height="280" />
 <h3 align="center"> I've done my bachelor's in
 Computer Applications from
-MLSU Udaipur in June 2022.
+MLSU Udaipur in June 2022.</h3>
+<h3 align="center"> 
 I'm Aspiring Node backend
-developer
+developer</h3>
+<h3 align="center"> 
 MongoDB || Express || Node.</h3>
 <hr>
 
-<img align="right" src="/code.gif" width="450" height="280" />
 
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h4>
 
