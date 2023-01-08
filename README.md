@@ -9,6 +9,15 @@ developer</h3>
 MongoDB || Express || Node.</h3>
     <br />
     <div align="center">
+    
+  <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"
+    alt="Git" />&nbsp; </h4>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=07-Mayankraj&label=Profile%20views&color=0e75b6&style=flat" alt="07-Mayankraj" />
+    <br />
+
+
+  <p align="">  </p>
     <img src="/code.gif" width = "450" height="250"/>
     </div>
     <br />
@@ -35,7 +44,7 @@ width="30px">&nbsp; Mayank raj :  </h4>
 <p align="left">
     <a href="https://www.linkedin.com/in/mayank-raj-b55614181/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mindofskk" height="30" width="40" /></a>
+            alt="07-Mayankraj" height="30" width="40" /></a>
     <a href="https://www.instagram.com/mayank_raj____/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mind_of_skk" height="30" width="40" /></a>
@@ -75,14 +84,8 @@ width="30px">&nbsp; Mayank raj :  </h4>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
 </p>
-<hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"
-    alt="Git" />&nbsp;Visitor's count :eyes:</h4>
-    <br />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{07-Mayankraj}/count.svg"
-    alt="07-Mayankraj :: Visitor's Count" /></p>
 
 <hr>
 
@@ -99,7 +102,7 @@ width="30px">&nbsp; Mayank raj :  </h4>
   
 <hr>
   
-  <br /> 
+
   <p align="left">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=07-Mayankraj&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
