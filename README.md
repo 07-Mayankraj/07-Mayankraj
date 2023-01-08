@@ -1,15 +1,15 @@
-<h1 align="center">I'm Mayank raj </h1>
+<h2 align="center">I'm Mayank raj </h2>
 <h3 align="center"> Full Stack Developer With a Passion for Development and Excited to Be at the Deployment Phase of My
     Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology.</h3>
 <hr>
 
-<p align="left"> <img src="/code.gif" alt="mayankraj" /> </p>
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; </h4>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 some of my projects are available at [https://07mayankraj.netlify.app/](https://07mayankraj.netlify.app/)
 
-<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280" />
+<img align="right" src="/code.gif" width="450" height="280" />
 
 - 💬 Ask me about **Node Backend,Html,Css,Java Script**
 
