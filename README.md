@@ -82,15 +82,17 @@
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
+<hr>
 
 
-<p align="center">
+<p align="left">
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Github : 
         stats:</b></i>
   </p>
   
   
   
+<hr>
   
   <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=07-Mayankraj&theme=chartreuse-dark" />
