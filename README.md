@@ -43,7 +43,7 @@ width="30px">&nbsp; Mayank raj </h4>
 <br/>
 <p >
 
-<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img  src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
@@ -107,10 +107,10 @@ width="30px">&nbsp; Mayank raj </h4>
     <a href="https://github.com/07-Mayankraj"><span>
         <img align="left" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=07-Mayankraj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
-          alt="ovi" width="49%" />
+          alt="ovi" width="45%" />
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=07-Mayankraj&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="49%"  />
+          alt="ovi" width="45%"  />
       </span></a>
   </p>
 <br />
