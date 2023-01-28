@@ -1,20 +1,28 @@
 <h2 align="center"></h2>
     <img src="./mayank.gif"/>
     <br/>
-    <div align="center">    
-  <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"
-    alt="Git" />&nbsp; </h4>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=07-Mayankraj&label=Profile%20views&color=0e75b6&style=flat" alt="07-Mayankraj" />
-    <br />
-    </div>
-    <br />
-    <br />
-<hr >
+    <p>
+      <span>
+   <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px"
+    alt="Git" /> 
+    <br>
+      </span>
+      <span>
+    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=07-Mayankraj&label=Profile%20views&color=0e75b6&style=flat" alt="07-Mayankraj" />
+      </span>
+      <br>
+    </p>
+    
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
 
+<br />
+
+<!-- deivder -->
 <h4 align="center">
 <br />
-<img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
 width="30px">&nbsp; Mayank raj </h4>
 <img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
 
@@ -37,9 +45,17 @@ width="30px">&nbsp; Mayank raj </h4>
 <br /> <br />
 <br /> <br />
 
-<hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+
+
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <br/>
 <p >
 
@@ -56,8 +72,14 @@ width="30px">&nbsp; Mayank raj </h4>
 <br/>
 
 </p>
-<hr>
-<h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;My working tools..</h4>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
@@ -76,7 +98,13 @@ width="30px">&nbsp; Mayank raj </h4>
 
 
 
-<hr>
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
 
 
   <br />
@@ -99,7 +127,14 @@ width="30px">&nbsp; Mayank raj </h4>
   <br /><br />
   </p>
 
----
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
   <br />
 
   
@@ -122,7 +157,14 @@ width="30px">&nbsp; Mayank raj </h4>
 <br />
 <br />
 <br />
-<hr clear="both">
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
 <br />
   
   <p align="center">
@@ -134,3 +176,4 @@ width="30px">&nbsp; Mayank raj </h4>
   
   
 <br />
+
