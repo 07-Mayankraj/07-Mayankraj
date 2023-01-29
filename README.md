@@ -41,7 +41,7 @@ width="30px">&nbsp; Mayank raj </h4>
 
 - 📄 Know about my experiences
 
-- 📄 Download my resume :   [Mayank_Raj_Resume](https://drive.google.com/file/d/1GsZLbWrLmrFTgYHDWImkuKdxy5JoEf1r/view)
+- 📄  My Resume :   [Mayank_Raj_Resume](https://drive.google.com/file/d/1OI8GWhlvyHDxnxdIaXEa2jF14FzoD3PT/view?usp=sharing)
 <br /> <br />
 <br /> <br />
 
