@@ -32,7 +32,7 @@ width="30px">&nbsp; Mayank raj </h4>
 - 🌱 I’m currently learning **Full Stack Development**
 
 
-- 👨‍💻 some of my projects are available at : [MayankRaj.com](https://07mayankraj.netlify.app/)
+- 👨‍💻 some of my projects are available at : [MayankRaj.com](https://07-mayankraj.github.io/)
 
 
 - 💬 Ask me about **Node Backend,Html,Css,Java Script**
