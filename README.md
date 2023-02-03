@@ -9,7 +9,7 @@
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-FFFBEB?style=flat&logo=twitter&logoColor=ffffff&labelColor=black">
     </a>
      <a href="https://07-mayankraj.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%FFFBEB&label=Website&message=07.Mayank-raj.io&style=flat&logo=amp&logoColor=ffffff&labelColor=black">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=FFFBEB&label=Website&message=07.Mayank-raj.io&style=flat&logo=amp&logoColor=ffffff&labelColor=black">
     </a>
   </div>
     <br/>
