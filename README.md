@@ -2,13 +2,13 @@
     <img src="./mayank.gif"/>
     <br/><br/>
     <div align="center">
-    <a href="https://www.linkedin.com/in/bhupender-soni/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=7733ff&label=LinkedIn&message=bhupender-soni&style=flat&logo=linkedin&logoColor=ffffff&labelColor=161937">
+    <a href="https://www.linkedin.com/in/mayank-raj-b55614181/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=7733ff&label=LinkedIn&message=Mayank-raj&style=flat&logo=linkedin&logoColor=ffffff&labelColor=161937">
     </a>
-    <a href="https://twitter.com/bhupender_sonii">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@bhupender_sonii-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
+    <a href="https://twitter.com/Mayank_raj____">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
     </a>
-     <a href="https://mr-soni532.github.io/">
+     <a href="https://07-mayankraj.github.io/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
   </div>
