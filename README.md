@@ -9,7 +9,7 @@
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter- black?style=flat&logo=twitter&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://07-mayankraj.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=Website&message= =flat&logo=amp&logoColor=939B62&labelColor=black">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=Website&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
     <br/>
