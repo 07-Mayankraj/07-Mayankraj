@@ -1,5 +1,17 @@
 <h2 align="center"></h2>
     <img src="./mayank.gif"/>
+    <br/><br/>
+    <div align="center">
+    <a href="https://www.linkedin.com/in/bhupender-soni/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=7733ff&label=LinkedIn&message=bhupender-soni&style=flat&logo=linkedin&logoColor=ffffff&labelColor=161937">
+    </a>
+    <a href="https://twitter.com/bhupender_sonii">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@bhupender_sonii-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
+    </a>
+     <a href="https://mr-soni532.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+    </a>
+  </div>
     <br/>
     <p>
       <span>
@@ -12,6 +24,8 @@
       </span>
       <br>
     </p>
+    
+
     
 <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
@@ -63,8 +77,6 @@ width="30px">&nbsp; Mayank raj </h4>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
-<br/>
-
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="json" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
@@ -88,7 +100,6 @@ width="30px">&nbsp; Mayank raj </h4>
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
- <br/>
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
