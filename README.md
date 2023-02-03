@@ -3,13 +3,13 @@
     <br/><br/>
     <div align="center">
     <a href="https://www.linkedin.com/in/mayank-raj-b55614181/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=FFB26B&label=LinkedIn&message=Mayank-raj&style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=939B62&label=LinkedIn&message=Mayank-raj&style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/Mayank_raj____">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-939B62?style=flat&logo=twitter&logoColor=ffffff&labelColor=black">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-939B62?style=flat&logo=twitter&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://07-mayankraj.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=FFB26B&label=Website&message=07.Mayank-raj.io&style=flat&logo=amp&logoColor=ffffff&labelColor=black">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=939B62&label=Website&message=07.Mayank-raj.io&style=flat&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
     <br/>
