@@ -3,13 +3,13 @@
     <br/><br/>
     <div align="center">
     <a href="https://www.linkedin.com/in/mayank-raj-b55614181/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=7733ff&label=LinkedIn&message=Mayank-raj&style=flat&logo=linkedin&logoColor=ffffff&labelColor=161937">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=FFFBEB&label=LinkedIn&message=Mayank-raj&style=flat&logo=linkedin&logoColor=ffffff&labelColor=black">
     </a>
     <a href="https://twitter.com/Mayank_raj____">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@Mayank_raj-FFFBEB?style=flat&logo=twitter&logoColor=ffffff&labelColor=black">
     </a>
      <a href="https://07-mayankraj.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%FFFBEB&label=Website&message=07.Mayank-raj.io&style=flat&logo=amp&logoColor=ffffff&labelColor=black">
     </a>
   </div>
     <br/>
