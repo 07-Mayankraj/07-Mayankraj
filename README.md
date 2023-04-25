@@ -55,8 +55,6 @@ width="30px">&nbsp; Mayank raj </h4>
 
 - 📄 Know about my experiences
 
-<img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
-
 - 📄  My Resume :   [Mayank_Raj_Resume](https://drive.google.com/file/d/1OI8GWhlvyHDxnxdIaXEa2jF14FzoD3PT/view?usp=sharing)
 <br /> <br />
 <br /> <br />
@@ -176,10 +174,6 @@ width="30px">&nbsp; Mayank raj </h4>
     alt="Git" />
 
 <br />
-
-<a href="https://google.com" align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</a>
 
 
 <!-- deivder -->
