@@ -43,7 +43,7 @@ width="30px">&nbsp; Mayank raj </h4>
 <br /> 
 <br />
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently wokring as **Software Engineer @Quantela**
 
 
 - 👨‍💻 some of my projects are available at : [MayankRaj.com](https://07-mayankraj.github.io/)
