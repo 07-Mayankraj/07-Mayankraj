@@ -38,7 +38,7 @@
 <br />
 <img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
 width="30px">&nbsp; Mayank raj </h4>
-<img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
+<img align="right" src="https://07-mayankraj.github.io/assets/img/about.png" width = "30%"/>
 
 <br /> 
 <br />
