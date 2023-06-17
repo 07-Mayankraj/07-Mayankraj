@@ -36,11 +36,12 @@
 <!-- deivder -->
 <h4 align="center">
 <br />
-<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
-width="30px">&nbsp; Mayank raj </h4>
-<br /> <br />
-<br /> <br />
-<img align="right" src="https://07-mayankraj.github.io/assets/img/about.png" width = "30%"/>
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp; Mayank raj </h4>
+
+
+<img align="right" src="./chiku.png" width = "33%"/>
+<br /> <br /> <br /> <br />
+
 
 
 - 🌱 I’m currently wokring as **Software Engineer @Quantela**
@@ -49,7 +50,7 @@ width="30px">&nbsp; Mayank raj </h4>
 - 👨‍💻 some of my projects are available at : [MayankRaj.com](https://07-mayankraj.github.io/)
 
 
-- 💬 Ask me about **Node Backend,Html,Css,Java Script**
+- 💬 Ask me about **Node Backend,Html,Css,JavaScript**
 
 - 📫 How to reach me **2003.mayankraj@gmail.com**
 
@@ -58,7 +59,7 @@ width="30px">&nbsp; Mayank raj </h4>
 - 📄  My Resume :   [Mayank_Raj_Resume](https://drive.google.com/file/d/1OI8GWhlvyHDxnxdIaXEa2jF14FzoD3PT/view?usp=sharing)
 <br /> <br />
 <br /> <br />
-<br /> <br />
+
 
 <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
