@@ -44,7 +44,7 @@
 
 
 
-- 🌱 I’m currently wokring as **Software Engineer @Quantela**
+- 🌱 I’m currently wokring as **Software Engineer @Entiovi Technologies**
 
 
 - 👨‍💻 some of my projects are available at : [MayankRaj.com](https://07-mayankraj.github.io/)
